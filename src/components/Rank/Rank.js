@@ -11,7 +11,7 @@ const Rank=({name,entries})=>{
 
 			   <div className="f3">
 
-				   {`${name} Your rank is.....`}
+				   {`${name} Your total entries is.....`}
 
 
 			   </div>

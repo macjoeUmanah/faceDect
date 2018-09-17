@@ -10,7 +10,7 @@ const ImageLinkForm=({changeOn,onSubmit})=>{
 
        <div>
 
-         <p className="f3">{'This smart brain magic will help you detect faces in your pictures'}</p>
+         <p className="f3">{'This App will help you detect faces in your images'}</p>
 
            <div className="center">
 
